@@ -1,4 +1,4 @@
-# Licensed under the BSD-2-Clause License: @rarafael
+# Use however you want.
 
 EAPI=8
 
